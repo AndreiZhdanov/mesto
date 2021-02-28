@@ -1,0 +1,15 @@
+.card {
+  list-style: none;
+  position: relative;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #000000;
+  box-sizing: border-box;
+  display: grid;
+  grid-column-gap: 10px;
+  grid-template-rows: min-content 1fr;
+  align-items: center;
+  grid-template-areas:
+    "photo photo"
+    "caption like";
+}

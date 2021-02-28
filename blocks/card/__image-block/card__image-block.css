@@ -1,0 +1,9 @@
+.card__image-block {
+  width: 100%;
+  padding-bottom: 100%;
+  position: relative;
+  -webkit-border-radius: 10px 10px 0 0;
+  -moz-border-radius: 10px 10px 0 0;
+  border-radius: 10px 10px 0 0;
+  grid-area: photo;
+}
