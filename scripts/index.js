@@ -26,4 +26,4 @@ function editProfileInfo(event) {
 
 buttonEdit.addEventListener('click', showPopup);
 buttonReset.addEventListener('click', popupReset);
-FormData.addEventListener('submit', editProfileInfo);
+form.addEventListener('submit', editProfileInfo);
