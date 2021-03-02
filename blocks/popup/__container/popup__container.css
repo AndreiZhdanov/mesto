@@ -12,7 +12,7 @@
   top: 50%;
   line-height: 1;
   -ms-transform: translate(-50%,-50%);
-  -moz-transform: translate(-50%,-50%);  
+  -moz-transform: translate(-50%,-50%);
   -webkit-transform: translate(-50%,-50%);
   transform: translate(-50%,-50%);
   -webkit-border-radius: 10px;
