@@ -1,18 +1,18 @@
 .container__footer {
   max-width: 880px;
   margin: 0 auto;
-  padding-bottom: 60px;
+  padding-top: 66px;
 }
 
 @media screen and (max-width: 980px) {
   .container__footer {
     width: 90%;
+    padding-top: 48px;
   }
 }
 
 @media screen and (max-width: 425px) {
   .container__footer {
     width: 88.125%;
-    padding-bottom: 36px;
   }
 }

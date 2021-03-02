@@ -5,3 +5,10 @@
   padding: 0;
   object-fit: contain;
 }
+
+@media screen and (max-width: 425px) {
+  .logo {
+    width: 104px;
+    height: 25px;
+  }
+}
