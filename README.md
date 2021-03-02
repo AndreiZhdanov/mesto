@@ -36,5 +36,5 @@
 
 **Ссылка на проект**
 
-* [Посмотреть проект на GitHub ](https://andreizhdanov.github.io/mesto.html)
+* [Посмотреть проект на GitHub ] https://andreizhdanov.github.io/mesto.html
 
