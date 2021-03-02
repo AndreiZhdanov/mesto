@@ -12,4 +12,26 @@
   grid-template-areas:
     "photo photo"
     "caption like";
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 361px;
+}
+
+@media screen and (max-width: 980px) {
+  .card {
+    min-height: 36.837vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    min-height: 54.45vw;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .card {
+    min-height: 110.11vw;
+  }
 }
