@@ -1,11 +1,9 @@
 .card__image {
   width: 100%;
-  width: 282px;
-  height: 282px;
+  max-height: 282px;
   border-radius: 10px 10px 0 0;
   border-style: none;
   object-position: center;
   object-fit: cover;
-  grid-area: photo;
   position: relative;
 }
