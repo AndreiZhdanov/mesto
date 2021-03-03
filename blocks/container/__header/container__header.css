@@ -13,6 +13,5 @@
 @media screen and (max-width: 425px) {
   .container__header {
     width: 100%;
-    padding-left: 27px;
   }
 }

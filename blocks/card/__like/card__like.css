@@ -1,6 +1,6 @@
 .card__like {
-  width: 21px;
-  height: 18px;
+  width: 22px;
+  height: 19px;
   background-color: #fff;
   background-image: url(../../../images/heart-shape-white.svg);
   border: none;
@@ -8,7 +8,7 @@
   background-repeat: no-repeat;
   justify-self: end;
   grid-area: like;
-  margin-right: 18px;
+  margin-right: 20px;
   
   cursor: pointer;
   transition: opacity 0.1s linear;
