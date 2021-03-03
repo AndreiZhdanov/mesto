@@ -1,39 +1,18 @@
 .popup__container {
   max-width: 430px;
   width: 100%;
-  min-height: 330px;
-  padding: 34px 0 37px;
+  height: 40%;
+  padding: 34px 36px 37px;
   box-sizing: border-box;
-  position: fixed;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  left: 50%;
-  top: 50%;
-  line-height: 1;
-  -ms-transform: translate(-50%,-50%);
-  -moz-transform: translate(-50%,-50%);
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  z-index: 2;
   background-color: #fff;
   color: #000;
-  font-family: Inter,arial,sans-serif;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  text-rendering: optimizeLegibility;
+  border-radius: 10px;
+  position: relative;
 }
 
 @media screen and (max-width: 500px) {
   .popup__container {
     padding: 25px 0;
     max-width: 88vw;
-    min-height: 322px;
   }
 }

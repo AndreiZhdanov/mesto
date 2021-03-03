@@ -1,4 +1,5 @@
 .profile__button_action_edit {
+  align-self: center;
   width: 24px;
   height: 24px;
   background-image: url(../../../../images/button-edit.svg);

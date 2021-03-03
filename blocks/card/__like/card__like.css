@@ -8,6 +8,8 @@
   background-repeat: no-repeat;
   justify-self: end;
   grid-area: like;
+  margin-right: 18px;
+  
   cursor: pointer;
   transition: opacity 0.1s linear;
 }
@@ -15,3 +17,16 @@
 .card__like:hover {
   opacity: 0.5;
 }
+
+
+/*
+
+.card__like-block {
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+
+  */
